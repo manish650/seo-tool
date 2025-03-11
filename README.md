@@ -1,1 +1,1 @@
-# seo-tool
+# toolify-seo
